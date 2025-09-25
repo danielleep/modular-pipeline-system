@@ -25,6 +25,7 @@ Developed as part of an Operating Systems course and maintained as a personal po
 
 ## Project Structure
 
+```
 .
 ├── main.c                 # main application
 ├── build.sh               # build script
@@ -40,6 +41,7 @@ Developed as part of an Operating Systems course and maintained as a personal po
 │   ├── plugin_common/
 │   └── plugin_tests/
 └── output/                # build outputs (ignored by git)
+```
 
 ---
 
