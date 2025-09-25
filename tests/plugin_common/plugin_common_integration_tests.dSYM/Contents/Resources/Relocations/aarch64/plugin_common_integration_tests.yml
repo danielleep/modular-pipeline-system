@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     plugin_common_integration_tests
+relocations:     []
+...

@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     extra_tests_plugin_common
+relocations:     []
+...

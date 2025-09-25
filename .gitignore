@@ -1,0 +1,17 @@
+
+output/
+*.o
+*.so
+*.out
+*.exe
+*.log
+core*
+
+.vscode/
+.idea/
+*.iml
+*.swp
+*~
+
+.DS_Store
+Thumbs.db
